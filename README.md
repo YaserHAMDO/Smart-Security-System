@@ -11,8 +11,11 @@ The system uses an ESP8266 microcontroller, LCD display, keypad, alarim and moti
 
 ## Key Features
 -**Password Protection:** The system requires a correct password entry within 5 seconds to disarm. If the password is incorrect or not entered, the alarm triggers, sending notifications and SMS alerts to the owner's phone.<br>
+<br>
 -**Remote Control:** The system can be paused or activated remotely through the Android app, which also allows changing settings like the password or delay time.<br>
+<br>
 -**Real-time Alerts:** Immediate notifications and SMS alerts are sent if the alarm is triggered.<br>
+<br>
 -**Firebase Integration:**  Firebase manages system data, enabling smooth communication between hardware and the Android app.<br>
 
 
@@ -23,4 +26,10 @@ When entering the commercial space, the owner must input a password on the keypa
 ## Images
 
 System Hardware Images:<br>
-Android App Screenshots:
+Android App Screenshot:
+<p align="left">
+  <img alt="f" src="https://github.com/user-attachments/assets/54351803-c739-4ae5-a96d-511bd022a20a" width="40%">
+</p>
+&nbsp;
+&nbsp;
+
