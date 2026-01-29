@@ -30,15 +30,14 @@ System Hardware Images:<br>
 <p align="left">
   <img alt="a" src="https://github.com/user-attachments/assets/6aeb614e-e3d1-4f14-bd3f-8a5a50d4a9f1" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="b" src="https://github.com/user-attachments/assets/37fc3e66-ea3a-4c82-9d78-bf5ab77fa9e7" width="30%">
+  <img alt="b" src="https://github.com/user-attachments/assets/4065fbbb-5a0c-41ad-bf9c-8a627b07952b" width="30%">
 </p>
 
 <p align="left">
   <img alt="c" src="https://github.com/user-attachments/assets/f43d50a8-3d25-4028-925e-ed1d3cce129a" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="d" src="https://github.com/user-attachments/assets/be7b3f7e-f99f-42b8-90e4-a6b510403aba" width="30%">
+  <img alt="d" src="https://github.com/user-attachments/assets/9f4f2532-6543-406f-8425-bf164ee00ec0" width="30%">
 </p>
-
 
 
 &nbsp;
