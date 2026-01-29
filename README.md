@@ -26,6 +26,25 @@ When entering the commercial space, the owner must input a password on the keypa
 ## Images
 
 System Hardware Images:<br>
+
+<p align="left">
+  <img alt="a" src="https://github.com/user-attachments/assets/6aeb614e-e3d1-4f14-bd3f-8a5a50d4a9f1" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="b" src="https://github.com/user-attachments/assets/37fc3e66-ea3a-4c82-9d78-bf5ab77fa9e7" width="30%">
+</p>
+
+<p align="left">
+  <img alt="c" src="https://github.com/user-attachments/assets/f43d50a8-3d25-4028-925e-ed1d3cce129a" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="d" src="https://github.com/user-attachments/assets/be7b3f7e-f99f-42b8-90e4-a6b510403aba" width="30%">
+</p>
+
+
+
+&nbsp;
+&nbsp;
+
+
 Android App Screenshot:
 <p align="left">
   <img alt="f" src="https://github.com/user-attachments/assets/54351803-c739-4ae5-a96d-511bd022a20a" width="40%">
